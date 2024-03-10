@@ -1,0 +1,1 @@
+mkdir created-from-script
